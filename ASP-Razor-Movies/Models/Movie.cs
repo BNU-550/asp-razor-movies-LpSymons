@@ -19,7 +19,7 @@ namespace ASP_Razor_Movies.Models
         [Key]
         public int ID { get; set; }
 
-        [StringLength(60)]
+        [StringLength(60), Required]
         public string Title { get; set; }
 
         [DataType(DataType.Date)]

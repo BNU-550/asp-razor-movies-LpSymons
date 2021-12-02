@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ASP_Razor_Movies
+build_property.ProjectDir = A:\Repos\Year 2\asp-mvc-movies-LpSymons\ASP-Razor-Movies\
